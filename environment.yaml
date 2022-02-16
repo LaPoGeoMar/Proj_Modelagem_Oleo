@@ -1,0 +1,11 @@
+name: GNOME
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - cartopy
+  - folium
+  - iris
+  - jupyter
+  - matplotlib-base
+  - xarray
