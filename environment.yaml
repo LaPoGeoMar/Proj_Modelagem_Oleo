@@ -1,11 +1,17 @@
-name: GNOME
+name: OIL
 channels:
   - conda-forge
 dependencies:
   - python=3
   - cartopy
+  - cftime
   - folium
-  - iris
+  - geopandas
   - jupyter
   - matplotlib-base
+  - netcdf4
+  - numpy
+  - pandas
+  - shapely
+  - windrose
   - xarray
