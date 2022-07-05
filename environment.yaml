@@ -4,6 +4,7 @@ channels:
 dependencies:
   - python=3
   - cartopy
+  - cf_xarray
   - cftime
   - folium
   - geopandas
@@ -14,6 +15,7 @@ dependencies:
   - netcdf4
   - numpy
   - pandas
+  - pooch
   - shapely
   - windrose
   - xarray
