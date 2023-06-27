@@ -1,0 +1,14 @@
+{
+ "beached": 0.0,
+ "off_maps": 0.0,
+ "evaporated": 246389.03877302477,
+ "natural_dispersion": 29619.954825308552,
+ "sedimentation": 3862.5922071960276,
+ "water_content": 0.8837119529453172,
+ "avg_density": 1013.9059601476433,
+ "floating": 97188.42331215285,
+ "amount_released": 377060.00911768037,
+ "non_weathering": 0.0,
+ "avg_viscosity": 0.040814447750840394,
+ "time_stamp": "2017-01-13T15:00:00"
+}
